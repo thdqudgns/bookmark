@@ -1,10 +1,9 @@
 # BOOKMARK
 개발 공부하며 북마크 했던 URL 정리 
 
-* #### [디자인 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8)
-* #### [교육 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%90%EC%9C%A1-%EC%82%AC%EC%9D%B4%ED%8A%B8)
+* [디자인 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8)
+* [교육 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%90%EC%9C%A1-%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
-***
 
 ## :open_file_folder: 디자인 사이트
 * 색상: [flatuicolors](https://flatuicolors.com/)
