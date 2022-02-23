@@ -5,7 +5,7 @@
 * [교육 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%90%EC%9C%A1-%EC%82%AC%EC%9D%B4%ED%8A%B8)
 
 
-## :open_file_folder: 디자인 사이트 [맨 위로](https://github.com/thdqudgns/bookmark#bookmark)
+## :open_file_folder: 디자인 사이트
 * 색상: [flatuicolors](https://flatuicolors.com/)
 * 색상: [palettable](https://www.palettable.io/E3CB94)
 * 색상: [Adobe Color](https://color.adobe.com/ko/create/color-wheel)
@@ -17,7 +17,7 @@
 * CSS테스트: [codepen](https://codepen.io/vineethtrv/full/XKKEgM)
 * 그림 찾기: [world-draw](https://world-draw.appspot.com/)
 
-## :open_file_folder: 교육 사이트 [맨 위로](https://github.com/thdqudgns/bookmark#bookmark)
+## :open_file_folder: 교육 사이트
 **국내**
 * [kmooc](http://www.kmooc.kr/)
 * [edwith](https://www.edwith.org/)
