@@ -2,23 +2,19 @@
 개발 공부하며 북마크 했던 URL 정리 
 
 ## :open_file_folder: 디자인 사이트
-* [Canva](https://www.canva.com/ko_kr/create/)
-* [Pinterest](https://www.pinterest.co.kr/)
-* [flatuicolors](https://flatuicolors.com/)
-* [unsplash](https://unsplash.com/images/stock/public-domain)
-* [world-draw](https://world-draw.appspot.com/)
-* [miricanvas](https://www.miricanvas.com/)
-* [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
-* [palettable](https://www.palettable.io/E3CB94)
-* [Adobe Color](https://color.adobe.com/ko/create/color-wheel)
-* [cubic-bezier](https://cubic-bezier.com/#.94,.17,.07,.98)
-* [userstyles](https://userstyles.org/)
-* [codepen](https://codepen.io/vineethtrv/full/XKKEgM)
+* 색상: [flatuicolors](https://flatuicolors.com/)
+* 색상: [palettable](https://www.palettable.io/E3CB94)
+* 색상: [Adobe Color](https://color.adobe.com/ko/create/color-wheel)
+* 이미지: [Pinterest](https://www.pinterest.co.kr/)
+* 이미지: [unsplash](https://unsplash.com/images/stock/public-domain)
+* 디자인 작업: [Canva](https://www.canva.com/ko_kr/create/)
+* 디자인 작업:[miricanvas](https://www.miricanvas.com/)
+* CSS테스트: [cubic-bezier](https://cubic-bezier.com/#.94,.17,.07,.98)
+* CSS테스트: [codepen](https://codepen.io/vineethtrv/full/XKKEgM)
+* 그림 찾기: [world-draw](https://world-draw.appspot.com/)
 
 ## :open_file_folder: 교육 사이트
-국내
-* [javascript](https://www.programiz.com/javascript/get-started)
-* [w3schools](https://www.w3schools.com/)
+**국내**
 * [kmooc](http://www.kmooc.kr/)
 * [edwith](https://www.edwith.org/)
 * [생활코딩](https://opentutorials.org/course/1)
@@ -32,7 +28,9 @@
 * [제로초](https://www.zerocho.com/)
 * [마이바티스](https://mybatis.org/mybatis-3/ko/index.html)
 
-해외
+**해외**
+* [javascript](https://www.programiz.com/javascript/get-started)
+* [w3schools](https://www.w3schools.com/)
 * [udacity](https://www.udacity.com/)
 * [lynda](https://www.lynda.com/)
 * [udemy](https://www.udemy.com/ko/)
