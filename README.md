@@ -8,7 +8,7 @@
 * 이미지: [Pinterest](https://www.pinterest.co.kr/)
 * 이미지: [unsplash](https://unsplash.com/images/stock/public-domain)
 * 디자인 작업: [Canva](https://www.canva.com/ko_kr/create/)
-* 디자인 작업:[miricanvas](https://www.miricanvas.com/)
+* 디자인 작업: [miricanvas](https://www.miricanvas.com/)
 * CSS테스트: [cubic-bezier](https://cubic-bezier.com/#.94,.17,.07,.98)
 * CSS테스트: [codepen](https://codepen.io/vineethtrv/full/XKKEgM)
 * 그림 찾기: [world-draw](https://world-draw.appspot.com/)
@@ -39,7 +39,3 @@
 * [codecademy](https://www.codecademy.com/learn)
 * [css공부](https://flukeout.github.io/)
 * [mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
-
-
-
-* []()
