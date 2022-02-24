@@ -2,7 +2,7 @@
 개발 공부하며 북마크 했던 URL 정리 
 
 * [교육 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%90%EC%9C%A1-%EC%82%AC%EC%9D%B4%ED%8A%B8)
-* [IT 유튜버](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9C%A0%ED%8A%9C%EB%B2%84)
+* [IT 유튜버](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EC%9C%A0%ED%8A%9C%EB%B2%84)
 * [유튜브 재생목록](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D)
 * [IT 블로그/News](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EB%B8%94%EB%A1%9C%EA%B7%B8news)
 * [IT 커뮤니티](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
