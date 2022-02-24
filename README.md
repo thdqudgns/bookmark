@@ -67,13 +67,13 @@
 * [남궁성의 정석코딩](https://www.youtube.com/user/MasterNKS)
 * [code Scalper](https://www.youtube.com/channel/UC1wWTimSew9rYzEZRVYVlbg/featured)
 * [코딩테스트 나동빈](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
-* [개발바닥 - YouTube](https://www.youtube.com/channel/UCSEOUzkGNCT_29EU_vnBYjg/videos)
-* [freeCodeCamp.org - YouTube](https://www.youtube.com/freecodecamp)
-* [엔지니어대한민국 - YouTube](https://www.youtube.com/user/damazzang/playlists)
-* [Taehoon - YouTube](https://www.youtube.com/c/TaehoonMoon/videos)
-* [얄팍한 코딩사전 - YouTube](https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ)
+* [개발바닥](https://www.youtube.com/channel/UCSEOUzkGNCT_29EU_vnBYjg/videos)
+* [freeCodeCamp.org](https://www.youtube.com/freecodecamp)
+* [엔지니어대한민국](https://www.youtube.com/user/damazzang/playlists)
+* [Taehoon](https://www.youtube.com/c/TaehoonMoon/videos)
+* [얄팍한 코딩사전](https://www.youtube.com/channel/UC2nkWbaJt1KQDi2r2XclzTQ)
 * [뉴렉쳐](https://www.youtube.com/user/newlec1)
-* [#우아한테크코스 테코톡 - YouTube](https://www.youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
+* [#우아한테크코스 테코톡](https://www.youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
 
 </details>
 
