@@ -158,7 +158,6 @@
 <summary>펼쳐보기</summary>
 
 * [GitHub 주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
-* [(면접준비) 신입 개발자 전공 지식 & 기술 면접 백과사전](https://gyoogle.dev/blog/)
 * [(기업설문) 개발자 구인](https://42place.innovationacademy.kr/archives/6884)
 * [소프트웨어회사 & 국내 IT기업 순위 (매출액) : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=company_info&logNo=221476801353)
 * [경기도일자리재단](https://gyeonggi.work.go.kr/main.do/main.do?regionCd=41000)
@@ -176,6 +175,7 @@
 * [(이력서 참고)Resume: Yongwoo Yu](https://resume.yowu.dev/)
 * [(이력서 참고)Wonny | 데이터로 일하는 개발자](https://wonny.notion.site/Wonny-e64e2e55653c4d8b8b632118b36bdd72)
 * [(이력서 참고)이력서/자기소개서/포트폴리오](https://www.notion.so/5ec4542496e14121b62b9b28b98374b9)
+* [(면접준비) 신입 개발자 전공 지식 & 기술 면접 백과사전](https://gyoogle.dev/blog/)
 * [(면접준비) 한재엽 깃헙](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [(면접준비) WeareSoft/tech-interview: 🙍 tech interview](https://github.com/WeareSoft/tech-interview)
 * [(면접준비) HTML 질문 | Front End Interview Handbook](https://www.frontendinterviewhandbook.com/kr/html-questions/)
@@ -234,6 +234,8 @@
 * [엔지니어대한민국 - YouTube](https://www.youtube.com/user/damazzang/videos)
 * [[무료] 영리한 프로그래밍을 위한 알고리즘 강좌 - 인프런 | 강의](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C)
 * [빅 오 표기법(Big O notation) - 기계인간 John Grib](https://johngrib.github.io/wiki/big-O-notation/)
+* [Linux Sysadmin Basics 02 -- Basic Commands - YouTube](https://www.youtube.com/watch?v=Lbh8Bh_SEzU)
+* [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
 
 </details>
 
