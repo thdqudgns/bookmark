@@ -9,6 +9,7 @@
 * [DB 관련](https://github.com/thdqudgns/bookmark#open_file_folder-db-%EA%B4%80%EB%A0%A8)
 * [코딩 테스트](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [구인구직](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81)
+* [채용공고](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81)
 * [IT 꿀팁 저장](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EA%BF%80%ED%8C%81-%EC%A0%80%EC%9E%A5)
 * [인프런 추천](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%B6%94%EC%B2%9C)
 * [사전, 라이브러리](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%82%AC%EC%A0%84-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
@@ -16,7 +17,7 @@
 * [기술 콘퍼런스?](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4)
 * [잡다한 것](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9E%A1%EB%8B%A4%ED%95%9C-%EA%B2%83)
 
-## :open_file_folder: 교육 사이트
+### :open_file_folder: 교육 사이트
 **[ 국내 ]**
 <details markdown="1">
 <summary>펼쳐보기</summary>
@@ -52,7 +53,7 @@
 
 </details>
 
-## :open_file_folder: IT 유튜버
+### :open_file_folder: IT 유튜버
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -77,7 +78,7 @@
 
 </details>
 
-## :open_file_folder: 유튜브 재생목록
+### :open_file_folder: 유튜브 재생목록
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -95,7 +96,7 @@
 
 </details>
 
-## :open_file_folder: IT 블로그/News
+### :open_file_folder: IT 블로그/News
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -114,7 +115,7 @@
 
 </details>
 
-## :open_file_folder: IT 커뮤니티
+### :open_file_folder: IT 커뮤니티
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -128,7 +129,7 @@
 
 </details>
 
-## :open_file_folder: DB 관련
+### :open_file_folder: DB 관련
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -143,7 +144,7 @@
 
 </details>
 
-## :open_file_folder: 코딩 테스트
+### :open_file_folder: 코딩 테스트
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -153,7 +154,7 @@
 
 </details>
 
-## :open_file_folder: 구인구직
+### :open_file_folder: 구인구직
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -186,7 +187,51 @@
 
 </details>
 
-## :open_file_folder: IT 꿀팁 저장
+### :open_file_folder: 채용공고
+<details markdown="1">
+<summary>펼쳐보기</summary>
+
+* [Recruit/Backend_Engineer.md at master · gopax/Recruit](https://github.com/gopax/Recruit/blob/master/Backend_Engineer.md)
+* [Role Overview - Tridge](https://www.tridge.com/career/jobs/4674619003?tabId=job&gh_src=7150da0c3us)
+* [We are hiring! (Software Engineer) - Slite](https://swingvy.slite.com/p/note/2FpJguueEPL36XzqznkGfh)
+* [[신입/주니어] Backend Engineer 채용](https://www.notion.so/Backend-Engineer-6b32f56083cf48e7a0d2454f34d8262a)
+* [백엔드 엔지니어](https://www.mfort.co.kr/b6d60b71-5238-419f-9b23-e48d9bd4523a)
+* [Jaranda Recruiting | 자란다 채용](https://team.jaranda.kr/backend)
+* [[채용] Backend Software Engineer - Growth Team - 채널톡](https://channel.io/ko/jobs/3fd0545d-5c80-4862-b6dd-313641864c2d)
+* [[채용] Backend Software Engineer - 채널톡](https://channel.io/ko/jobs/9d58e7ad-7ba2-4e1b-8c69-c5d0b20cb1a1)
+* [볼드나인 채용 안내 : 네이버 블로그](https://blog.naver.com/bold-9/222544928421)
+* [백엔드 엔지니어](https://www.notion.so/f3ca264dfab248f18746b0ac3529fc4d)
+* [LINE CAREERS](https://careers.linecorp.com/ko/jobs?ca=All&ci=Seoul,Bundang&co=East%20Asia&fi=Web%20Development,Server-side)
+* [백엔드 개발 (Java/Spring) | 29CM(에이플러스비)](https://www.wanted.co.kr/wd/38516)
+* [쏘카와 함께 할 인재를 찾습니다!](https://www.notion.so/socarcorp/d458b6b77a2243fb873d1ac800c321f7)
+* [소프트웨어 엔지니어 (백엔드 개발자, 대시보드) | 탭조이코리아(Tapjoy)](https://www.wanted.co.kr/wd/16906)
+* [채용공고 | | 이스트소프트](https://estsoft.recruiter.co.kr/app/jobnotice/list)
+* [(경력3년이후) 채용 공고 | 와디즈 채용 -wadiz career](https://www.job.wadiz.kr/recruit-info)
+* [셀렉트스타와 함께 성장할 멤버를 찾고 있습니다](https://www.notion.so/2387860beacf47048f74e0863550697a)
+* [크라우드웍스 신입 백엔드 개발자](https://programmers.co.kr/job_positions/9166)
+* [당근마켓 서버 개발자 - 사업 (Kotlin)](https://programmers.co.kr/job_positions/7515)
+* [당근마켓 서버 개발자 - 광고 (Kotlin)](https://programmers.co.kr/job_positions/7513)
+* [iPortfoli Back-end 개발자](https://programmers.co.kr/job_positions/1685)
+* [(3년경력) OGQ 서버 개발자](https://programmers.co.kr/job_positions/4064)
+* [와탭랩스 서버 개발자 (JAVA)](https://programmers.co.kr/job_positions/9581)
+* [피플펀드컴퍼니 백엔드 엔지니어 (Kotlin/Java)](https://programmers.co.kr/job_positions/6784)
+* [하우저 백엔드개발자](https://programmers.co.kr/job_positions/9326)
+* [스트리미 백엔드 개발자](https://programmers.co.kr/job_positions/5713)
+* [핀크 Back-end서버개발자](https://programmers.co.kr/job_positions/8883)
+* [핀크 웹서버개발자](https://programmers.co.kr/job_positions/8884)
+* [(경력 3년) 아이엠에스모빌리티 IMS.Connect 백엔드 개발자](https://programmers.co.kr/job_positions/8357)
+* [업템포글로벌 프론트/백엔드, 풀스택 개발자](https://programmers.co.kr/job_positions/7696)
+* [[패스오더] 대규모 투자유치로 급성장중인 스타트업 '개발 직군'을 채용합니다! 채용 정보 | 페이타랩](https://www.rocketpunch.com/jobs/87469/%ED%8C%A8%EC%8A%A4%EC%98%A4%EB%8D%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98%EB%A1%9C-%EA%B8%89%EC%84%B1%EC%9E%A5%EC%A4%91%EC%9D%B8-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C-%EC%A7%81%EA%B5%B0%EC%9D%84-%EC%B1%84%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4)
+* [백엔드/서버 개발자 채용 (경력 무관) 채용 정보 | 널리소프트](https://www.rocketpunch.com/jobs/116170/%EB%B0%B1%EC%97%94%EB%93%9C%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9-%EA%B2%BD%EB%A0%A5-%EB%AC%B4%EA%B4%80)
+* [[(주)트리플렛] AI +IoT 웹/서버 개발자 채용 (신입) 채용 정보 | 트리플렛](https://www.rocketpunch.com/jobs/110868/%EC%A3%BC%ED%8A%B8%EB%A6%AC%ED%94%8C%EB%A0%9B-AI-IoT-%EC%9B%B9%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B1%84%EC%9A%A9-%EC%8B%A0%EC%9E%85)
+* [[모트모트] 백엔드 개발 팀원 채용 채용 정보 | 모트모트](https://www.rocketpunch.com/jobs/117812/%EB%AA%A8%ED%8A%B8%EB%AA%A8%ED%8A%B8-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%8C%80%EC%9B%90-%EC%B1%84%EC%9A%A9)
+* [(잼있을듯) SW 개발 - Backend 채용 정보 | (주)아이포트폴리오](https://www.rocketpunch.com/jobs/85471/SW-%EA%B0%9C%EB%B0%9C-Backend)
+* [백엔드 개발자 구인 채용 정보 | 리드넘버](https://www.rocketpunch.com/jobs/116625/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B5%AC%EC%9D%B8)
+* [[채널톡] 백엔드 엔지니어 (Backend Software Engineer) 채용 정보 | 채널코퍼레이션](https://www.rocketpunch.com/jobs/102538/%EC%B1%84%EB%84%90%ED%86%A1-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-Backend-Software-Engineer)
+
+</details>
+
+### :open_file_folder: IT 꿀팁 저장
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -215,7 +260,7 @@
 
 </details>
 
-## :open_file_folder: 인프런 추천
+### :open_file_folder: 인프런 추천
 
 **[ 컴퓨터 기초 지식 ]**
 <details markdown="1">
@@ -284,7 +329,7 @@
 
 </details>
 
-## :open_file_folder: 사전, 라이브러리
+### :open_file_folder: 사전, 라이브러리
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -302,7 +347,7 @@
 
 </details>
 
-## :open_file_folder: 디자인 사이트
+### :open_file_folder: 디자인 사이트
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -322,7 +367,7 @@
 
 </details>
 
-## :open_file_folder: 기술 콘퍼런스?
+### :open_file_folder: 기술 콘퍼런스?
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -332,7 +377,7 @@
 
 </details>
 
-## :open_file_folder: 잡다한 것
+### :open_file_folder: 잡다한 것
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
