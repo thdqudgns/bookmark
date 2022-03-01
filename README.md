@@ -9,7 +9,7 @@
 * [DB 관련](https://github.com/thdqudgns/bookmark#open_file_folder-db-%EA%B4%80%EB%A0%A8)
 * [코딩 테스트](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [구인구직](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81)
-* [채용공고](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81)
+* [채용공고](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0)
 * [IT 꿀팁 저장](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EA%BF%80%ED%8C%81-%EC%A0%80%EC%9E%A5)
 * [인프런 추천](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%B6%94%EC%B2%9C)
 * [사전, 라이브러리](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%82%AC%EC%A0%84-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
@@ -17,7 +17,7 @@
 * [기술 콘퍼런스?](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4)
 * [잡다한 것](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9E%A1%EB%8B%A4%ED%95%9C-%EA%B2%83)
 
-### :open_file_folder: 교육 사이트
+## :pushpin: 교육 사이트
 **[ 국내 ]**
 <details markdown="1">
 <summary>펼쳐보기</summary>
@@ -53,7 +53,7 @@
 
 </details>
 
-### :open_file_folder: IT 유튜버
+## :pushpin: IT 유튜버
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -78,7 +78,7 @@
 
 </details>
 
-### :open_file_folder: 유튜브 재생목록
+## :pushpin: 유튜브 재생목록
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -96,7 +96,7 @@
 
 </details>
 
-### :open_file_folder: IT 블로그/News
+## :pushpin: IT 블로그/News
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -115,7 +115,7 @@
 
 </details>
 
-### :open_file_folder: IT 커뮤니티
+## :pushpin: IT 커뮤니티
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -129,7 +129,7 @@
 
 </details>
 
-### :open_file_folder: DB 관련
+## :pushpin: DB 관련
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -144,7 +144,7 @@
 
 </details>
 
-### :open_file_folder: 코딩 테스트
+## :pushpin: 코딩 테스트
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -154,7 +154,7 @@
 
 </details>
 
-### :open_file_folder: 구인구직
+## :pushpin: 구인구직
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -187,7 +187,7 @@
 
 </details>
 
-### :open_file_folder: 채용공고
+## :pushpin: 채용공고
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -231,7 +231,7 @@
 
 </details>
 
-### :open_file_folder: IT 꿀팁 저장
+## :pushpin: IT 꿀팁 저장
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -260,7 +260,7 @@
 
 </details>
 
-### :open_file_folder: 인프런 추천
+## :pushpin: 인프런 추천
 
 **[ 컴퓨터 기초 지식 ]**
 <details markdown="1">
@@ -329,7 +329,7 @@
 
 </details>
 
-### :open_file_folder: 사전, 라이브러리
+## :pushpin: 사전, 라이브러리
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -347,7 +347,7 @@
 
 </details>
 
-### :open_file_folder: 디자인 사이트
+## :pushpin: 디자인 사이트
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -367,7 +367,7 @@
 
 </details>
 
-### :open_file_folder: 기술 콘퍼런스?
+## :pushpin: 기술 콘퍼런스?
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
@@ -377,7 +377,7 @@
 
 </details>
 
-### :open_file_folder: 잡다한 것
+## :pushpin: 잡다한 것
 <details markdown="1">
 <summary>펼쳐보기</summary>
 
