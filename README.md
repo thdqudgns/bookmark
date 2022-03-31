@@ -163,6 +163,7 @@
 * [소프트웨어회사 & 국내 IT기업 순위 (매출액) : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=company_info&logNo=221476801353)
 * [경기도일자리재단](https://gyeonggi.work.go.kr/main.do/main.do?regionCd=41000)
 * [개발 채용 정보 | 원티드](https://www.wanted.co.kr/wdlist/518?country=kr&job_sort=job.latest_order&years=0&locations=all)
+* [사람인](https://www.saramin.co.kr/zf_user/)
 * [로켓펀치](https://www.rocketpunch.com/)
 * [크레딧잡](https://kreditjob.com/)
 * [잡플래닛](https://www.jobplanet.co.kr/contents)
