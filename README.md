@@ -93,6 +93,19 @@
 * [오라클(Oracle) SQL 강의 강좌](https://www.youtube.com/playlist?list=PLq8wAnVUcTFVq7RD1kuUwkdWabxvDGzfu)
 * [GIT](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
 * [java - Data Structure](https://www.youtube.com/watch?v=zpgL94Hnnv8&list=PLuHgQVnccGMDsWOOn_P0EmAWB8DArS3Fk&index=3)
+* [자바 프로그래밍 강의 강좌 - YouTube](https://www.youtube.com/playlist?list=PLq8wAnVUcTFV4ZjRbyGnw6T1tgmYDLM3P)
+* [5. 자바 컬렉션과 제네릭 강의 - YouTube](https://www.youtube.com/playlist?list=PLq8wAnVUcTFWKOIbvo18pJZ9zsxtXz_-k)
+* [자바 스레드와 비동기처리 - YouTube](https://www.youtube.com/playlist?list=PLq8wAnVUcTFXCmfUPG5gZ-2KDzvIUJl-D)
+* [자바 코드 연습 - YouTube](https://www.youtube.com/playlist?list=PLq8wAnVUcTFUfpRAw03NgQVQQwBpfJJZI)
+* [Java 입문 수업 (생활코딩) - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
+* [JAVA1 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR)
+* [JAVA 제어문 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCoEXnWV8-UF1mBxK5ftmxH)
+* [JAVA method - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDkdt3N9tT0aZPZx5-Ri2jo)
+* [JAVA 객체지향 프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMAb-e41kXPSIpmoz1RvHyN4)
+* [Java 상속 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMA1bRSk_SZrXMngx5iq03cc)
+* [Java Interface - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDiv-rCwlN-YjLKWR6-SBbM)
+* [Java 예외 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCrFJLxpjhE0N5tvOVxJuVB)
+* [[무료] 만들어 가면서 배우는 JAVA 플레이그라운드 - 인프런 | 강의](https://www.inflearn.com/course/java-codesquad#curriculum)
 
 </details>
 
