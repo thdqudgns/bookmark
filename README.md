@@ -1,22 +1,6 @@
 # BOOKMARK
 개발 공부하며 북마크 했던 URL 정리 
 
-* [교육 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%90%EC%9C%A1-%EC%82%AC%EC%9D%B4%ED%8A%B8)
-* [IT 유튜버](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EC%9C%A0%ED%8A%9C%EB%B2%84)
-* [유튜브 재생목록](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D)
-* [IT 블로그/News](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EB%B8%94%EB%A1%9C%EA%B7%B8news)
-* [IT 커뮤니티](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
-* [DB 관련](https://github.com/thdqudgns/bookmark#open_file_folder-db-%EA%B4%80%EB%A0%A8)
-* [코딩 테스트](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
-* [구인구직](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81)
-* [채용공고](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0)
-* [IT 꿀팁 저장](https://github.com/thdqudgns/bookmark#open_file_folder-it-%EA%BF%80%ED%8C%81-%EC%A0%80%EC%9E%A5)
-* [인프런 추천](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%B6%94%EC%B2%9C)
-* [사전, 라이브러리](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%82%AC%EC%A0%84-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
-* [디자인 사이트](https://github.com/thdqudgns/bookmark#open_file_folder-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8)
-* [기술 콘퍼런스?](https://github.com/thdqudgns/bookmark#open_file_folder-%EA%B8%B0%EC%88%A0-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4)
-* [잡다한 것](https://github.com/thdqudgns/bookmark#open_file_folder-%EC%9E%A1%EB%8B%A4%ED%95%9C-%EA%B2%83)
-
 ## :pushpin: 교육 사이트
 **[ 국내 ]**
 <details markdown="1">
